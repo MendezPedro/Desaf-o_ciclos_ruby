@@ -1,9 +1,4 @@
-# n = ARGV[0]
-# letters = *('a'..'z')
-# i = 0
-
-# print letters {n}
-
+#encuentra la contraseña ingresada con solo letras
 
 n = ARGV[0].to_s
 i=0
